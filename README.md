@@ -3,4 +3,4 @@ Frontend Stage One Personal Profile for Manahil, built using HTML, CSS and Javas
 
 ## Link
 
-Hosted on Netlify: https://hngfrontendstageone.netlify.app
+Hosted on Netlify: https://hng-stageone-manahil.netlify.app/
